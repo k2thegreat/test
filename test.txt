@@ -1,4 +1,6 @@
 Hi There
 This is our Git demo Project
 First commit edit
-Second commit # from branch 1
+Second commit # from branch 1 and master merged change
+Third commit # k2techuser
+
