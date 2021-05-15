@@ -14,5 +14,5 @@ New commit 1 # techuser
 New commit 2 # techuser
 
 New commit 3 # fixed commit
-
+trying to do commit on same line to have merge conflict # k2user
 
