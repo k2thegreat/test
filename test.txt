@@ -14,5 +14,7 @@ New commit 1 # techuser
 New commit 2 # techuser
 
 New commit 3 # fixed commit
+#### Merge use case ###
+normal commit
 
 
