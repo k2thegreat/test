@@ -16,5 +16,6 @@ New commit 2 # techuser
 New commit 3 # fixed commit
 #### Merge use case ###
 normal commit
+trying to do commit on same line to have merge conflict # k2user resolved the merge conflict
 
 
